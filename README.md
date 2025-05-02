@@ -26,6 +26,9 @@ Analyze **monthly revenue** and **order volume** using SQL-style data grouping a
 - `amount`: Revenue from the order
 - `product_id`: ID of the product sold
 
+- These names were given tempprary during execution of task, original column names are different in dataset
+ 
+
 ---
 
 ## 📈 Analysis Goals
